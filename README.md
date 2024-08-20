@@ -34,4 +34,3 @@ this is a simple CPU us loonarch fram
 2. 在命令行输入vim ~/.bashrc
 3. 在文件最后添加export PATH=.../loongarch32r-linux-gnusf-2022-05-20/bin/:$PATH
 4. 在命令行输入loongarch32r-linux-gnusf-gcc -v查看版本。
-
