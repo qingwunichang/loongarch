@@ -21,3 +21,17 @@ this is a simple CPU us loonarch fram
 
 ![image-20240820220614665](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240820220614665.png)
 
+## 项目运行
+
+点击thinpad_top.xpr即可打开软件运行
+
+## 编译环境
+
+汇编的环境需要使用Ubuntu系统，loongarch需要的交叉编译器在文件夹（loongarch32r-linux-gnusf-2022-05-20.zip）中。
+交叉编译环境配置：
+
+1. 把文件夹解压到Ubuntu系统下的文件夹中
+2. 在命令行输入vim ~/.bashrc
+3. 在文件最后添加export PATH=.../loongarch32r-linux-gnusf-2022-05-20/bin/:$PATH
+4. 在命令行输入loongarch32r-linux-gnusf-gcc -v查看版本。
+
