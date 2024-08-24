@@ -15,8 +15,6 @@ this is a simple CPU us loonarch fram
 该项目使用的是软件是vivado，版本是2019.2
 下载地址为：https://china.xilinx.com/support/download/index.html/content/xilinx/zh/downloadNav/vivado-design-tools/archive.html
 
-百度网盘：链接: https://pan.baidu.com/s/1kXoAVR9RAE962mGZwwPv9A?pwd=ikni 提取码: ikni 
-
 安装教程：解压缩安装包到*非中文路径下*，双击运行安装程序 `xsetup.exe`：
 
 ![image-20240820220614665](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240820220614665.png)
